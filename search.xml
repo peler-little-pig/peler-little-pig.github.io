@@ -4,6 +4,49 @@
   
     
     <entry>
+      <title>PelerBoard正式发布</title>
+      <link href="/2022/06/03/pelerboard-zheng-shi-fa-bu/"/>
+      <url>/2022/06/03/pelerboard-zheng-shi-fa-bu/</url>
+      
+        <content type="html"><![CDATA[<p>详情请至<a href="http://www.peler.top/html/PelerBoard">产品首页</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> PelerDown </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> PelerBoard </tag>
+            
+            <tag> C# </tag>
+            
+            <tag> UWP </tag>
+            
+            <tag> Visual Studio </tag>
+            
+            <tag> MicroSoft </tag>
+            
+            <tag> APP </tag>
+            
+            <tag> 黑板 </tag>
+            
+            <tag> GitHub </tag>
+            
+            <tag> 开源 </tag>
+            
+            <tag> 新品发布 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>博客维护说明</title>
       <link href="/2022/05/31/bo-ke-wei-hu-shuo-ming/"/>
       <url>/2022/05/31/bo-ke-wei-hu-shuo-ming/</url>
@@ -84,21 +127,21 @@
       
         <tags>
             
+            <tag> GitHub </tag>
+            
+            <tag> 开源 </tag>
+            
+            <tag> 新品发布 </tag>
+            
             <tag> PelerDown </tag>
             
             <tag> Markdown </tag>
             
             <tag> HTML </tag>
             
-            <tag> GitHub </tag>
-            
-            <tag> 开源 </tag>
-            
             <tag> 转换器 </tag>
             
             <tag> Perl </tag>
-            
-            <tag> 新品发布 </tag>
             
         </tags>
       
@@ -123,6 +166,8 @@
       
         <tags>
             
+            <tag> Visual Studio </tag>
+            
             <tag> C++ </tag>
             
             <tag> 底层 </tag>
@@ -134,8 +179,6 @@
             <tag> 思考 </tag>
             
             <tag> gcc </tag>
-            
-            <tag> Visual Studio </tag>
             
             <tag> Visual C++ </tag>
             

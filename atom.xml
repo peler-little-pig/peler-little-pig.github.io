@@ -6,7 +6,7 @@
   <link href="http://peler.top/atom.xml" rel="self"/>
   
   <link href="http://peler.top/"/>
-  <updated>2022-05-31T14:53:32.397Z</updated>
+  <updated>2022-06-03T05:19:11.601Z</updated>
   <id>http://peler.top/</id>
   
   <author>
@@ -15,6 +15,49 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>PelerBoard正式发布</title>
+    <link href="http://peler.top/2022/06/03/pelerboard-zheng-shi-fa-bu/"/>
+    <id>http://peler.top/2022/06/03/pelerboard-zheng-shi-fa-bu/</id>
+    <published>2022-06-03T05:19:00.000Z</published>
+    <updated>2022-06-03T05:19:11.601Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;详情请至&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="PelerDown" scheme="http://peler.top/categories/PelerDown/"/>
+    
+    
+    <category term="PelerBoard" scheme="http://peler.top/tags/PelerBoard/"/>
+    
+    <category term="C#" scheme="http://peler.top/tags/C/"/>
+    
+    <category term="UWP" scheme="http://peler.top/tags/UWP/"/>
+    
+    <category term="Visual Studio" scheme="http://peler.top/tags/Visual-Studio/"/>
+    
+    <category term="MicroSoft" scheme="http://peler.top/tags/MicroSoft/"/>
+    
+    <category term="APP" scheme="http://peler.top/tags/APP/"/>
+    
+    <category term="黑板" scheme="http://peler.top/tags/%E9%BB%91%E6%9D%BF/"/>
+    
+    <category term="GitHub" scheme="http://peler.top/tags/GitHub/"/>
+    
+    <category term="开源" scheme="http://peler.top/tags/%E5%BC%80%E6%BA%90/"/>
+    
+    <category term="新品发布" scheme="http://peler.top/tags/%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83/"/>
+    
+  </entry>
   
   <entry>
     <title>博客维护说明</title>
@@ -102,21 +145,21 @@
     <category term="PelerDown" scheme="http://peler.top/categories/PelerDown/"/>
     
     
+    <category term="GitHub" scheme="http://peler.top/tags/GitHub/"/>
+    
+    <category term="开源" scheme="http://peler.top/tags/%E5%BC%80%E6%BA%90/"/>
+    
+    <category term="新品发布" scheme="http://peler.top/tags/%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83/"/>
+    
     <category term="PelerDown" scheme="http://peler.top/tags/PelerDown/"/>
     
     <category term="Markdown" scheme="http://peler.top/tags/Markdown/"/>
     
     <category term="HTML" scheme="http://peler.top/tags/HTML/"/>
     
-    <category term="GitHub" scheme="http://peler.top/tags/GitHub/"/>
-    
-    <category term="开源" scheme="http://peler.top/tags/%E5%BC%80%E6%BA%90/"/>
-    
     <category term="转换器" scheme="http://peler.top/tags/%E8%BD%AC%E6%8D%A2%E5%99%A8/"/>
     
     <category term="Perl" scheme="http://peler.top/tags/Perl/"/>
-    
-    <category term="新品发布" scheme="http://peler.top/tags/%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83/"/>
     
   </entry>
   
@@ -141,6 +184,8 @@
     <category term="C++" scheme="http://peler.top/categories/C/"/>
     
     
+    <category term="Visual Studio" scheme="http://peler.top/tags/Visual-Studio/"/>
+    
     <category term="C++" scheme="http://peler.top/tags/C/"/>
     
     <category term="底层" scheme="http://peler.top/tags/%E5%BA%95%E5%B1%82/"/>
@@ -152,8 +197,6 @@
     <category term="思考" scheme="http://peler.top/tags/%E6%80%9D%E8%80%83/"/>
     
     <category term="gcc" scheme="http://peler.top/tags/gcc/"/>
-    
-    <category term="Visual Studio" scheme="http://peler.top/tags/Visual-Studio/"/>
     
     <category term="Visual C++" scheme="http://peler.top/tags/Visual-C/"/>
     
