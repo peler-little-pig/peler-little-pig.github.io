@@ -6,7 +6,7 @@
   <link href="http://peler.top/atom.xml" rel="self"/>
   
   <link href="http://peler.top/"/>
-  <updated>2022-06-03T05:19:11.601Z</updated>
+  <updated>2022-06-09T04:51:22.062Z</updated>
   <id>http://peler.top/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://peler.top/2022/06/03/pelerboard-zheng-shi-fa-bu/"/>
     <id>http://peler.top/2022/06/03/pelerboard-zheng-shi-fa-bu/</id>
     <published>2022-06-03T05:19:00.000Z</published>
-    <updated>2022-06-03T05:19:11.601Z</updated>
+    <updated>2022-06-09T04:51:22.062Z</updated>
     
     
       
@@ -106,10 +106,6 @@
     <category term="VBA" scheme="http://peler.top/categories/VBA/"/>
     
     
-    <category term="杂谈" scheme="http://peler.top/tags/%E6%9D%82%E8%B0%88/"/>
-    
-    <category term="思考" scheme="http://peler.top/tags/%E6%80%9D%E8%80%83/"/>
-    
     <category term="VBA" scheme="http://peler.top/tags/VBA/"/>
     
     <category term="贪吃蛇" scheme="http://peler.top/tags/%E8%B4%AA%E5%90%83%E8%9B%87/"/>
@@ -119,6 +115,10 @@
     <category term="office" scheme="http://peler.top/tags/office/"/>
     
     <category term="visual basic" scheme="http://peler.top/tags/visual-basic/"/>
+    
+    <category term="杂谈" scheme="http://peler.top/tags/%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="思考" scheme="http://peler.top/tags/%E6%80%9D%E8%80%83/"/>
     
     <category term="逻辑" scheme="http://peler.top/tags/%E9%80%BB%E8%BE%91/"/>
     
@@ -186,15 +186,15 @@
     
     <category term="Visual Studio" scheme="http://peler.top/tags/Visual-Studio/"/>
     
+    <category term="杂谈" scheme="http://peler.top/tags/%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="思考" scheme="http://peler.top/tags/%E6%80%9D%E8%80%83/"/>
+    
     <category term="C++" scheme="http://peler.top/tags/C/"/>
     
     <category term="底层" scheme="http://peler.top/tags/%E5%BA%95%E5%B1%82/"/>
     
     <category term="编译器" scheme="http://peler.top/tags/%E7%BC%96%E8%AF%91%E5%99%A8/"/>
-    
-    <category term="杂谈" scheme="http://peler.top/tags/%E6%9D%82%E8%B0%88/"/>
-    
-    <category term="思考" scheme="http://peler.top/tags/%E6%80%9D%E8%80%83/"/>
     
     <category term="gcc" scheme="http://peler.top/tags/gcc/"/>
     

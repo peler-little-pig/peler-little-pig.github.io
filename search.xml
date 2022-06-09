@@ -88,10 +88,6 @@
       
         <tags>
             
-            <tag> 杂谈 </tag>
-            
-            <tag> 思考 </tag>
-            
             <tag> VBA </tag>
             
             <tag> 贪吃蛇 </tag>
@@ -101,6 +97,10 @@
             <tag> office </tag>
             
             <tag> visual basic </tag>
+            
+            <tag> 杂谈 </tag>
+            
+            <tag> 思考 </tag>
             
             <tag> 逻辑 </tag>
             
@@ -168,15 +168,15 @@
             
             <tag> Visual Studio </tag>
             
+            <tag> 杂谈 </tag>
+            
+            <tag> 思考 </tag>
+            
             <tag> C++ </tag>
             
             <tag> 底层 </tag>
             
             <tag> 编译器 </tag>
-            
-            <tag> 杂谈 </tag>
-            
-            <tag> 思考 </tag>
             
             <tag> gcc </tag>
             
