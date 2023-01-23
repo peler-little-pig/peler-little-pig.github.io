@@ -4,27 +4,93 @@
   
     
     <entry>
-      <title>对Windows的评价</title>
-      <link href="/2023/01/20/dui-windows-de-ping-jie/"/>
-      <url>/2023/01/20/dui-windows-de-ping-jie/</url>
+      <title>ubuntu配置pyqt5及其工具</title>
+      <link href="/2023/01/23/ubuntu-pei-zhi-pyqt5-ji-qi-gong-ju/"/>
+      <url>/2023/01/23/ubuntu-pei-zhi-pyqt5-ji-qi-gong-ju/</url>
       
-        <content type="html"><![CDATA[<h1 id="Windows像屎一样，我爱Linux"><a href="#Windows像屎一样，我爱Linux" class="headerlink" title="Windows像屎一样，我爱Linux"></a>Windows像屎一样，我爱Linux</h1>]]></content>
+        <content type="html"><![CDATA[<pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> pip <span class="token function">install</span> pyqt5<span class="token function">sudo</span> <span class="token function">apt</span> <span class="token function">install</span> qt5-default<span class="token function">sudo</span> <span class="token function">apt</span> <span class="token function">install</span> qttools5-dev-tools<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre>]]></content>
       
       
       <categories>
           
-          <category> 评价 </category>
+          <category> Linux </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 杂谈 </tag>
+            <tag> pyqt5 </tag>
             
-            <tag> 操作系统 </tag>
+            <tag> python </tag>
             
-            <tag> 名人名言 </tag>
+            <tag> GUI </tag>
+            
+            <tag> linux </tag>
+            
+            <tag> ubuntu </tag>
+            
+            <tag> pip </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>wine乱码问题解决</title>
+      <link href="/2023/01/23/wine-luan-ma-wen-ti-jie-jue/"/>
+      <url>/2023/01/23/wine-luan-ma-wen-ti-jie-jue/</url>
+      
+        <content type="html"><![CDATA[<h1 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h1><p>在ubuntu上安装了wine5.0，但是打开QQ等软件乱码。</p><h1 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h1><p>找一台windows中文系统的电脑，将其 <code>C:\windows\Fonts</code> 复制到ubuntu 中的 <code>.wine/drive_c/windows/Fonts</code> 中即可。</p><p><code>.wine</code>目录通常在用户目录下。 </p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Linux </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> linux </tag>
+            
+            <tag> ubuntu </tag>
+            
+            <tag> wine </tag>
+            
+            <tag> exe </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hexo博客搭建及美化网址汇总</title>
+      <link href="/2023/01/22/hexo-bo-ke-da-jian-ji-mei-hua-wang-zhi-hui-zong/"/>
+      <url>/2023/01/22/hexo-bo-ke-da-jian-ji-mei-hua-wang-zhi-hui-zong/</url>
+      
+        <content type="html"><![CDATA[<ol><li><a href="https://www.cnblogs.com/thanksblog/p/12900165.html">https://www.cnblogs.com/thanksblog/p/12900165.html</a> 基础网页搭建</li><li><a href="https://blog.csdn.net/kuashijidexibao/article/details/112971657">https://blog.csdn.net/kuashijidexibao/article/details/112971657</a> 美化</li><li><a href="https://zhuanlan.zhihu.com/p/69211731">https://zhuanlan.zhihu.com/p/69211731</a> 动态装饰</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 博客 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> Web </tag>
+            
+            <tag> 博客 </tag>
             
         </tags>
       
@@ -42,7 +108,7 @@
       
       <categories>
           
-          <category> Web </category>
+          <category> 博客 </category>
           
       </categories>
       
@@ -84,7 +150,7 @@
       
       <categories>
           
-          <category> PelerDown </category>
+          <category> PelerSoftware </category>
           
       </categories>
       
@@ -191,7 +257,7 @@
       
       <categories>
           
-          <category> PelerDown </category>
+          <category> PelerSoftware </category>
           
       </categories>
       

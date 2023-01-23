@@ -6,7 +6,7 @@
   <link href="http://peler.top/atom.xml" rel="self"/>
   
   <link href="http://peler.top/"/>
-  <updated>2023-01-20T15:17:11.456Z</updated>
+  <updated>2023-01-23T02:42:39.111Z</updated>
   <id>http://peler.top/</id>
   
   <author>
@@ -17,31 +17,99 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>对Windows的评价</title>
-    <link href="http://peler.top/2023/01/20/dui-windows-de-ping-jie/"/>
-    <id>http://peler.top/2023/01/20/dui-windows-de-ping-jie/</id>
-    <published>2023-01-20T15:14:18.000Z</published>
-    <updated>2023-01-20T15:17:11.456Z</updated>
+    <title>ubuntu配置pyqt5及其工具</title>
+    <link href="http://peler.top/2023/01/23/ubuntu-pei-zhi-pyqt5-ji-qi-gong-ju/"/>
+    <id>http://peler.top/2023/01/23/ubuntu-pei-zhi-pyqt5-ji-qi-gong-ju/</id>
+    <published>2023-01-23T02:38:32.000Z</published>
+    <updated>2023-01-23T02:42:39.111Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;Windows像屎一样，我爱Linux&quot;&gt;&lt;a href=&quot;#Windows像屎一样，我爱Linux&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;pre class=&quot;line-numbers language-bash&quot; data-language=&quot;bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; pip &lt;span</summary>
         
       
     
     
     
-    <category term="评价" scheme="http://peler.top/categories/%E8%AF%84%E4%BB%B7/"/>
+    <category term="Linux" scheme="http://peler.top/categories/Linux/"/>
     
     
-    <category term="杂谈" scheme="http://peler.top/tags/%E6%9D%82%E8%B0%88/"/>
+    <category term="pyqt5" scheme="http://peler.top/tags/pyqt5/"/>
     
-    <category term="操作系统" scheme="http://peler.top/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    <category term="python" scheme="http://peler.top/tags/python/"/>
     
-    <category term="名人名言" scheme="http://peler.top/tags/%E5%90%8D%E4%BA%BA%E5%90%8D%E8%A8%80/"/>
+    <category term="GUI" scheme="http://peler.top/tags/GUI/"/>
+    
+    <category term="linux" scheme="http://peler.top/tags/linux/"/>
+    
+    <category term="ubuntu" scheme="http://peler.top/tags/ubuntu/"/>
+    
+    <category term="pip" scheme="http://peler.top/tags/pip/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>wine乱码问题解决</title>
+    <link href="http://peler.top/2023/01/23/wine-luan-ma-wen-ti-jie-jue/"/>
+    <id>http://peler.top/2023/01/23/wine-luan-ma-wen-ti-jie-jue/</id>
+    <published>2023-01-23T02:25:57.000Z</published>
+    <updated>2023-01-23T02:33:14.283Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;背景&quot;&gt;&lt;a href=&quot;#背景&quot; class=&quot;headerlink&quot; title=&quot;背景&quot;&gt;&lt;/a&gt;背景&lt;/h1&gt;&lt;p&gt;在ubuntu上安装了wine5.0，但是打开QQ等软件乱码。&lt;/p&gt;
+&lt;h1 id=&quot;解决方案&quot;&gt;&lt;a href=&quot;#解决方案&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Linux" scheme="http://peler.top/categories/Linux/"/>
+    
+    
+    <category term="linux" scheme="http://peler.top/tags/linux/"/>
+    
+    <category term="ubuntu" scheme="http://peler.top/tags/ubuntu/"/>
+    
+    <category term="wine" scheme="http://peler.top/tags/wine/"/>
+    
+    <category term="exe" scheme="http://peler.top/tags/exe/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo博客搭建及美化网址汇总</title>
+    <link href="http://peler.top/2023/01/22/hexo-bo-ke-da-jian-ji-mei-hua-wang-zhi-hui-zong/"/>
+    <id>http://peler.top/2023/01/22/hexo-bo-ke-da-jian-ji-mei-hua-wang-zhi-hui-zong/</id>
+    <published>2023-01-22T07:20:19.000Z</published>
+    <updated>2023-01-23T02:35:54.002Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.cnblogs.com/thanksblog/p/12900165.html&quot;&gt;https://www.cnblogs.com/thanksblog/p/12900165.html&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="博客" scheme="http://peler.top/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="Hexo" scheme="http://peler.top/tags/Hexo/"/>
+    
+    <category term="Web" scheme="http://peler.top/tags/Web/"/>
+    
+    <category term="博客" scheme="http://peler.top/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
@@ -50,7 +118,7 @@
     <link href="http://peler.top/2023/01/20/hexo-fu-huo-zhi-nan/"/>
     <id>http://peler.top/2023/01/20/hexo-fu-huo-zhi-nan/</id>
     <published>2023-01-20T15:08:00.000Z</published>
-    <updated>2023-01-20T15:13:21.296Z</updated>
+    <updated>2023-01-23T02:35:54.002Z</updated>
     
     
       
@@ -64,7 +132,7 @@
     
     
     
-    <category term="Web" scheme="http://peler.top/categories/Web/"/>
+    <category term="博客" scheme="http://peler.top/categories/%E5%8D%9A%E5%AE%A2/"/>
     
     
     <category term="Hexo" scheme="http://peler.top/tags/Hexo/"/>
@@ -101,7 +169,7 @@
     <link href="http://peler.top/2022/06/03/pelerboard-zheng-shi-fa-bu/"/>
     <id>http://peler.top/2022/06/03/pelerboard-zheng-shi-fa-bu/</id>
     <published>2022-06-03T05:19:00.000Z</published>
-    <updated>2022-06-09T04:51:22.062Z</updated>
+    <updated>2023-01-23T02:35:54.002Z</updated>
     
     
       
@@ -114,7 +182,7 @@
     
     
     
-    <category term="PelerDown" scheme="http://peler.top/categories/PelerDown/"/>
+    <category term="PelerSoftware" scheme="http://peler.top/categories/PelerSoftware/"/>
     
     
     <category term="PelerBoard" scheme="http://peler.top/tags/PelerBoard/"/>
@@ -209,7 +277,7 @@
     <link href="http://peler.top/2022/05/09/pelerdown-zhen-han-fa-bu/"/>
     <id>http://peler.top/2022/05/09/pelerdown-zhen-han-fa-bu/</id>
     <published>2022-05-09T14:16:47.000Z</published>
-    <updated>2022-05-10T14:16:43.698Z</updated>
+    <updated>2023-01-23T02:35:54.002Z</updated>
     
     
       
@@ -222,7 +290,7 @@
     
     
     
-    <category term="PelerDown" scheme="http://peler.top/categories/PelerDown/"/>
+    <category term="PelerSoftware" scheme="http://peler.top/categories/PelerSoftware/"/>
     
     
     <category term="GitHub" scheme="http://peler.top/tags/GitHub/"/>
