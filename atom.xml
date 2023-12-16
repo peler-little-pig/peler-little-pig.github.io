@@ -221,13 +221,13 @@
     <category term="PelerSoftware" scheme="http://peler.top/categories/PelerSoftware/"/>
     
     
+    <category term="C#" scheme="http://peler.top/tags/C/"/>
+    
     <category term="制作" scheme="http://peler.top/tags/%E5%88%B6%E4%BD%9C/"/>
     
     <category term="开发记录" scheme="http://peler.top/tags/%E5%BC%80%E5%8F%91%E8%AE%B0%E5%BD%95/"/>
     
     <category term="开源软件" scheme="http://peler.top/tags/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6/"/>
-    
-    <category term="C#" scheme="http://peler.top/tags/C/"/>
     
   </entry>
   
@@ -311,13 +311,13 @@
     <category term="PelerSoftware" scheme="http://peler.top/categories/PelerSoftware/"/>
     
     
-    <category term="Perl" scheme="http://peler.top/tags/Perl/"/>
-    
     <category term="制作" scheme="http://peler.top/tags/%E5%88%B6%E4%BD%9C/"/>
     
     <category term="开发记录" scheme="http://peler.top/tags/%E5%BC%80%E5%8F%91%E8%AE%B0%E5%BD%95/"/>
     
     <category term="开源软件" scheme="http://peler.top/tags/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="Perl" scheme="http://peler.top/tags/Perl/"/>
     
   </entry>
   
